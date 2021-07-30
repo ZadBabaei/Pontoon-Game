@@ -8,7 +8,7 @@
 
 
 
-#How to run from a shell window:
+# How to run from a shell window:
 
 * Open console (terminal, command.exe, whatever)
 
