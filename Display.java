@@ -1,9 +1,4 @@
-/*
-* the flow of this program is based on the state of the game.
-* these states are notStarted---> player1---->player2---->endOfGame
-* the state will switch between player1 and player2 so based on this state the program will define whose turn is
-to play and at the end will select the winner
- */
+
 
 import javax.swing.*;
 import java.awt.*;
